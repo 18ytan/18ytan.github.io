@@ -1,0 +1,113 @@
+body {
+    background-color: lightblue;
+}
+a:link{ 
+    background-color: blue;
+    padding: 20px;
+    font-family: impact;
+    color: #1E90FF;
+    font-size: 30px;
+}
+a:visited{
+    background-color: white;
+    padding: 20px;
+    color: #1E90FF;
+}
+a:hover{
+    background-color: #7FFFD4;
+    padding: 20px;
+}
+a:active{
+    background-color: cyan;
+    padding: 20px;
+}
+h2 {
+    font-size: 28px;
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-style: italic;
+    color: #191970;
+}
+#intro {
+        margin-left: 200px;
+        margin-right: 150px;
+        font-family: "Dancing Script";
+        font-size: 30px;
+        text-align: left;
+        color: #191970;
+}
+h1 {
+    color: #F0F8FF;
+    font-family: "Pacifico";
+}
+p {
+    text-indent: 50px;
+    margin-right: 50px;
+    border-style: dotted;
+    border-color: #00FFFF;
+}
+#me { 
+    margin-top: 20px;
+}
+img {
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 50px;
+}
+table, th, td {
+    border: 1px solid white;
+    font-family: verdana;
+    font-size: 21px;
+    margin-left: 400px;
+    margin-top: 60px;
+}
+#line {
+    text-align: left;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+h3 {
+    font-family: Impact;
+    font-size: 25px;
+    color: #008080;
+}
+ol {
+    background: #E0FFFF	;
+    padding: 20px;
+}
+
+ul {
+    background: #3399ff;
+    padding: 20px;
+}
+
+ol li {
+    background: #00FFFF;
+    margin: 5px;
+    font-family: arial;
+    color: #008080;
+}
+
+ul li {
+    background: #cce5ff;
+    margin: 5px;
+    color: #191970;
+    font-family: arial;
+}
+#hobbies{
+    float:left;   
+    width:45%;
+    margin-left: 20px;
+    font-size: 20px;
+}
+#songs{
+    float:right;   
+    width:45%;
+    margin-right: 20px;
+    font-size: 20px
+}
+#section3{
+    margin: auto;
+}
+#bts{
+    border: 3px dashed black;
+}
