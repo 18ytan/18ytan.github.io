@@ -74,19 +74,16 @@ ol {
     background: #E0FFFF	;
     padding: 20px;
 }
-
 ul {
     background: #3399ff;
     padding: 20px;
 }
-
 ol li {
     background: #00FFFF;
     margin: 5px;
     font-family: arial;
     color: #008080;
 }
-
 ul li {
     background: #cce5ff;
     margin: 5px;
